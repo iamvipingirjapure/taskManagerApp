@@ -1,6 +1,6 @@
 To Run Application (for now android only)- yarn android
 
-Login : 
+User Flow
 1. - User can login with the prefilled user data
 2. - Clicked on the login button to continue
 3. - If the there is some issue with the login user will see the pop up for more info about the login issue
